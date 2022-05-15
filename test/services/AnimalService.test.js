@@ -6,4 +6,9 @@ describe("Pruebas en AnimalServices", () =>{
         const allAnimals = AnimalService.allAnimals(dbAnimal);
         expect(allAnimals.name).toBe("tortuga");
     });
+    test("2. Filtro de animales por name ", () =>{
+        const dbAnimal = [{id: 1, name: "tortuga"},{id: 2, name: "tortuga cahuamera"}, {id: 3, name: "foca"}];
+        const allAnimals = AnimalService.animalsFilter(dbAnimal,"tortuga")
+        expect(allAnimals.name).toBe("tortuga")
+    })
 })
