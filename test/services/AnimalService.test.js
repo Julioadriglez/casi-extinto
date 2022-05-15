@@ -1,9 +1,9 @@
-const AnimalServices = require("")
-const { TestScheduler } = require("jest")
+const AnimalService = require("../../lib/services/AnimalService")
 
 describe("Pruebas en AnimalServices", () =>{
     test("1. prueba de información de animales", () => {
+        const dbAnimal = {id: 1, name: "tortuga"};
         const allAnimals = AnimalService.allAnimals(dbAnimal);
-        espect(allAnimals).toBe("tortuga");
+        expect(allAnimals.name).toBe("tortua");
     });
 })
