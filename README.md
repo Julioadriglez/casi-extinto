@@ -1,4 +1,6 @@
-# **HACK THE OCEAN **
+# **HACK THE OCEAN**
+
+## tema: Especies en peligro de extincion
 
 ## Parte de BACKEND
 
@@ -42,17 +44,15 @@ Se instala `express`
 
   Se instala `ESlint`
   `npm install  eslint --save -dev`
-  Se  ejecuta el comando  `npm init @eslint/config` y se configuro de la siguiente forma 
-    
+  Se  ejecuta el comando  `npm init @eslint/config` y se configuro de la siguiente forma
+
     ![hack linter](https://user-images.githubusercontent.com/99068430/168502165-a3cf4804-337f-4b3d-90b6-c847f5d770ff.png)
 
- ### Creacion de pruebas 
- 
- Se crearon primero las pruebas de unidad y de ahí empezó hacer el proyecto 
- 
- ![hack pruebas de controller y services](https://user-images.githubusercontent.com/99068430/168502067-01a8db43-e86a-4013-ac38-5d7f2ccf5bc7.png)
+### Creacion de pruebas
 
-  
+ Se crearon primero las pruebas de unidad y de ahí empezó hacer el proyecto
+
+ ![hack pruebas de controller y services](https://user-images.githubusercontent.com/99068430/168502067-01a8db43-e86a-4013-ac38-5d7f2ccf5bc7.png)
 
 ![hack resder](https://user-images.githubusercontent.com/99068430/168501836-3adc4fbf-5fe9-4760-afc9-371f72d4b80c.png)
 
@@ -64,25 +64,23 @@ Pasan las pruebas de unidad
 
 ![hack readertest](https://user-images.githubusercontent.com/99068430/168502277-9e56e416-ceb0-4609-8d35-087639bd90db.png)
 
-Se importan los módulos de los archivos a `AnimalContoller`y estos a su vez se pasan a el servidor 
+Se importan los módulos de los archivos a `AnimalContoller`y estos a su vez se pasan a el servidor
 
 ### Servidor
 
 Para el servidor se crea `server.js` y crean dos endpoints uno que muestra todo los animales
 y el otro el filtrado por `name`
 
-
    ![hack servercodigo](https://user-images.githubusercontent.com/99068430/168502904-136b742d-75f7-45b3-a0e6-0c4105816a72.png)
 
 ### Corriendo el server de forma local
- 
+
  Corremos del server con el comando `npm server.js`
- 
+
  ![hack server](https://user-images.githubusercontent.com/99068430/168503032-a91042d3-d0c3-4d3e-9e4a-b864b9cc2420.png)
 
 Para poder entrar en el navegador ponemos `http://localhost:3000`y nos arroja una bienvenida,
 para ver todo los animales alojados en la Api ponemos `http://localhost:3000/v1/allAnimales`
-
 
 ![hack allAnimals](https://user-images.githubusercontent.com/99068430/168503276-3fc0d539-2d30-4ed3-8556-dbb3a87b75f4.gif)
 
@@ -94,9 +92,8 @@ Una ves finalizado todo de aplica linter para que arregle todas las inconsistenc
 
 ![hack linterfinal](https://user-images.githubusercontent.com/99068430/168503793-6e3fea5f-ae77-4b8a-98c0-2d67588d6aa4.png)
 
-
 link de la parte  Frontend
 
-|      Proyecto      |                                        Link al repo                                        |
-| :----------------:| :-----------------------------------------------------------------------------------------: |
-| `FRONEND` |               [Link al repo](https://github.com/Jovana-ch/Hackathon-)               |
+|  Proyecto  |                     Link al repo                     |
+| :---------: | :--------------------------------------------------: |
+| `FRONEND` | [Link al repo](https://github.com/Jovana-ch/Hackathon-) |
