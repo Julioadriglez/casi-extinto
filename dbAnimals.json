@@ -1,13 +1,37 @@
 [{
     "Id": "1",
-    "name": "tortuga bastarda",
-    "Descripcion": "es una especie de tortuga marina americana de la familia Cheloniidae. Mide hasta 90 cm y pesa hasta 45 kg. Se alimenta de moluscos, crustáceos, medusas, algas y erizos de mar. Vive en el Océano Atlántico desde Terranova hasta Venezuela, encontrándose por todo el Caribe y el Golfo de México. ",
-     "url": "https://www.nationalgeographic.es/animales/2019/06/seis-de-las-siete-especies-de-tortugas-marinas-estan-en-peligro-de-extincion-tres#:~:text=Las%20tortugas%20carey%20y%20bastarda,boba%20y%20oliv%C3%A1cea%20%E2%80%9Cvulnerables%E2%80%9D."
+    "name": "Tortuga bastarda",
+    "Descripcion": "Es una especie de tortuga marina americana de la familia Cheloniidae. Mide hasta 90 cm y pesa hasta 45 kg. Se alimenta de moluscos, crustáceos, medusas, algas y erizos de mar. Vive en el Océano Atlántico desde Terranova hasta Venezuela, encontrándose por todo el Caribe y el Golfo de México. ",
+     "url": "https://4.bp.blogspot.com/-ZbtviLnXfSY/WQYnGatxwQI/AAAAAAAAAtM/ongNkBBFLA0KIDlknQ13nKhbaoLp-1B-gCLcB/s1600/036877.jpg"
 },
 {
     "Id": "2",
-    "name": "tortuga carey",
+    "name": "Tortuga carey",
     "Descripcion": "Las tortugas carey, que no son particularmente grandes comparadas con otras tortugas marinas, llegan a medir hasta 114 centímetros respecto del tamaño de su caparazón y a pesar 68 kilogramos. De jóvenes, su caparazón tiene la forma de un corazón y, a medida que van creciendo, se extiende. Su caparazón de colores asombrosos es serrado y posee esculetos solapados o piezas de exoesqueleto gruesas. ",
-     "url": "https://www.nationalgeographicla.com/animales/2020/04/tortuga-carey"
+     "url": "https://www.tortugaswiki.com/Imagenes/descripcion-de-la-tortuga-carey.jpg"
+},
+{
+    "Id":"3",
+    "name":"Totoaba",
+    "Descripcion":"Se localiza en el norte del Golfo de California de México. Este pez enfrenta desde hace décadas una dura caza furtiva porque su buche es muy codiciado en China. Su pesca supone el sustento principal de habitantes de pueblos como San Felipe o Puerto Peñasco Sonora.",
+    "url":"https://www.neoteo.com/wp-content/uploads/2018/11/logo-42.jpg"
+},
+{
+    "Id":"4",
+    "name":"Vaquita marina",
+    "Descripcion":"Se localiza en la reserva de la biosfera de las aguas mexicanas del Golfo de California, es uno de los cetáceos más pequeños del mundo (150 cm) con un peso promedio de 50 kg. A pesar de que solo ha pasado medio siglo desde que fue vista por primera vez, hoy se encuentra en grave peligro de extinción debido a que queda atrapada en las redes de pesca, aunque esta práctica esta prohibida. Se estima que la población se reduce hasta el 15% cada año.",
+    "url":"https://cdn.repsodia.com/wp-content/uploads/2017/06/vaquitamarina-e1496419190463.jpg"
+},
+{
+    "Id":"5",
+    "name":"Ballena Azul",
+    "Descripcion":"Con un tamaño que va de 24 hasta 30 metros y un peso de alrededor de 173 toneladas, la ballena azul se encuentra en la cima de la cadena alimenticia con un papel importante para mantener el balance de los ecosistemas marinos. La especie también ha sufrido un descenso en su población debido a la pesca comercial excesiva, a pesar de que ésta fue prohibida a partir de 1966. De acuerdo con un reporte de 2016 de la Unión Internacional para la Conservación de la Naturaleza (UICN), se estima que hay entre 10 mil a 25 mil ejemplares. Entre los meses de enero y marzo, este mamífero, catalogado como el más grande del planeta llega a las aguas del Parque Nacional Bahía de Loreto en Baja California Sur para reproducirse y tener a sus crías.",
+    "url":"https://img.lagacetasalta.com.ar/fotos/notas/2017/05/04/728341_20170504100540.jpg"
+},
+{
+    "Id":"6",
+    "name":"León Marino de Steller",
+    "Descripcion":"Se localiza en las frías aguas costeras del Pacífico Norte. Es el miembro más grande de la familia Otariid y la cuarta especie de foca más larga del mundo. Su depredador principal es la Ballena asesina, aunque la pesca excesiva de los nativos alaskeños y canadienses han disminuido su población hasta un 60% desde 1960. La demanda de carne, aceite y otros productos hacen del León marino de Steller muy atractivo para los pescadores.",
+    "url":"https://thumbs.dreamstime.com/b/le%C3%B3n-marino-de-steller-34869986.jpg"
 }
 ]
