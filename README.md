@@ -99,4 +99,4 @@ link de la parte  Frontend
 
 |      Proyecto      |                                        Link al repo                                        |
 | :----------------:| :-----------------------------------------------------------------------------------------: |
-| `FRONDEND` |               [Link al repo](https://github.com/Jovana-ch/Hackathon-)               |
+| `FRONEND` |               [Link al repo](https://github.com/Jovana-ch/Hackathon-)               |
