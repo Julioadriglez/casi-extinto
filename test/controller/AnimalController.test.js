@@ -1,4 +1,4 @@
-const AnimalController = require("../../lib/controller/AnimalController")
+const AnimalController = require("../../lib/controller/AnimalController");
 
 describe("Pruebas en AnimalController", () =>{
     test("1. Prueba de información de animales", () => {
