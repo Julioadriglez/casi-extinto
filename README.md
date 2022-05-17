@@ -33,11 +33,11 @@ Este proyecto crea una pequeña Api de animales en peligro de extinción con el 
 * Primero se creo el repositorio de github
 * Se clono y para tenerlo de manera local
 * se añadió el `package.json` con `mpm init`
-* se agregaron los módulos de `jest , espress y leslint`
+* se agregaron los módulos de `jest , express y eslint`
   se instala `jest`
-  `npm intall --save-dev jest@26.0.0`
+  `npm install --save-dev jest@26.0.0`
 
-Nota : se agrega la versión 26.0.0 porque github acction nos de error porque con la última versión de jest manda error.
+Nota : se agrega la versión 26.0.0 porque github acction nos da error porque con la última versión de jest manda error.
 
 Se instala `express`
   `npm install express --save`
@@ -46,7 +46,7 @@ Se instala `express`
   `npm install  eslint --save -dev`
   Se  ejecuta el comando  `npm init @eslint/config` y se configuro de la siguiente forma
 
-    ![hack linter](https://user-images.githubusercontent.com/99068430/168502165-a3cf4804-337f-4b3d-90b6-c847f5d770ff.png)
+![hack linter](https://user-images.githubusercontent.com/99068430/168502165-a3cf4804-337f-4b3d-90b6-c847f5d770ff.png)
 
 ### Creacion de pruebas
 
